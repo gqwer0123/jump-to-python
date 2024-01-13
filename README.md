@@ -1,4 +1,1 @@
-# jump-to-python
-Do it!
-
-https://wikidocs.net/book/1
+# Life is short, you need Python.
